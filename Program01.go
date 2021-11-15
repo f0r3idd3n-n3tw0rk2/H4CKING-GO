@@ -1,6 +1,6 @@
 package main
 
-//import libraries test03
+//import libraries test10
 import (
 	"fmt"
 )
